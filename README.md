@@ -10,7 +10,7 @@
   
  # Installation
  
- Copy the ``nordvpn@codebot`` from this git repository to your ``~/.local/share/cinnamon/applets`` folder, then open Cinnamon Settings -> Applets and add the NordVPN applet to your panel.
+ Copy the ``nordvpn@codebot`` folder in this git repository to your ``~/.local/share/cinnamon/applets`` folder, then open Cinnamon Settings -> Applets and add the NordVPN applet to your panel.
  
  # Usage
  
