@@ -1,7 +1,7 @@
 {
     "uuid": "nordvpn@codebot",
     "name": "NordVPN",
-    "description": "Connect to NordVPN with one one click using this applet.",
+    "description": "Connect to NordVPN with one click using this applet.",
     "icon": "icon-connected",
     "max-instances": "1"
 }
