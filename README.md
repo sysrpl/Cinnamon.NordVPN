@@ -14,5 +14,7 @@
  # Usage
  
  Click the NordVPN icon on your panel to toggle the connect or disconnect status. The applet icon will track your connection status and update appropriately.
+ 
+ ![](nordvpn.gif)
 
 
